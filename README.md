@@ -1,2 +1,2 @@
 # ms-kafka-liveproject
-Repo to hold deliverables for Manning Async messaging Live Project
+Repository to hold deliverables for Manning Async messaging Live Project
